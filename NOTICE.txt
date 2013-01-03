@@ -1,0 +1,12 @@
+Ribbentrop 2.1 (as known as Ranking Battle Printer)
+Copyright 2008-2013 Ryohei NISHIMURA
+
+This product includes software developed by
+The Apache Software Foundation (http://www.apache.org/).
+
+Apache HttpComponents Client
+Copyright 1999-2012 The Apache Software Foundation
+
+This product includes software developed by
+The Apache Software Foundation (http://www.apache.org/).
+

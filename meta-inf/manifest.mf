@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: Ribbentrop
+Class-Path: ./commons-logging-1.1.1.jar ./commons-codec-1.6.jar ./fluent-hc-4.2.2.jar ./httpclient-4.2.2.jar ./httpclient-cache-4.2.2.jar ./httpcore-4.2.2.jar ./httpmime-4.2.2.jar 
+
